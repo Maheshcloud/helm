@@ -43,7 +43,7 @@ Password: prom-operator
 
 In Grafana, we need to import dashboards 
 
-To create dashboard to monitor cluster load 127403119 id
+To create dashboard to monitor cluster load 12740 or 3119 id
 
 To create dashboard to monitor POD load 6417 id
 
