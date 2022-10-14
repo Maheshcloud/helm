@@ -4,7 +4,7 @@ helm repo add bitnami https://charts.bitnami.com/bitnami
 ```
 
 create namespacke jenkins:
-'''sh 
+```sh 
 kubectl create namespace jenkins
 ```
 Install jenkins
